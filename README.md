@@ -1,65 +1,76 @@
-# My Portfolio Website - Overview 🚀
+# Kartik Thakre — Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+🚀 Senior Frontend Engineer portfolio showcasing my work, skills, and experience in building scalable, high-performance web applications.
 
----
-
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+## 🌐 Live Demo
+👉 https://your-portfolio-link.vercel.app
 
 ---
 
-## 🛠️ Instructions
+## 👨‍💻 About Me
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+Senior Frontend Engineer with over five years of experience building scalable, high-performance web applications using React.js and TypeScript. Currently at Accenture, contributing to enterprise-grade UI solutions across fintech, banking, and insurance domains.
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
-
-## ⚙️ Tech Stack
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+I specialise in:
+- Pixel-perfect UI development from Figma designs
+- Performance optimisation and scalability
+- Reusable component architecture
+- Building accessible and modern web applications
 
 ---
 
-## 🎨 Assets Usage
+## 🛠 Tech Stack
 
-Some 3D assets included in this repository are free to use for learning purposes.
+**Frontend**
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5, CSS3
 
-However:
+**State Management**
+- Redux Toolkit
+- Context API
+- React Query
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+**Styling & UI**
+- Tailwind CSS
+- Bootstrap
+- Styled Components
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+**Tools & Others**
+- Git & GitHub
+- Vite
+- REST APIs
+- Jest (basic)
+- Agile / Scrum
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## 💼 Featured Projects
+
+### 🔹 MMS Orchestration
+- Stabilised a mission-critical orchestration UI by resolving 30+ production issues
+- Improved system uptime to **99.5%**
+- Refactored state management using Redux Toolkit
+
+### 🔹 Prototype Factory & Architecture
+- Built scalable UI system from Figma designs
+- Reduced development time by **40%**
+- Developed reusable component architecture
+
+### 🔹 Banking UI (Security Bank)
+- Developed responsive UI for multiple banking modules
+- Improved performance by **28%**
+
+### 🔹 Multilingual UI
+- Implemented multi-language support using i18n
+- Enabled seamless language switching
 
 ---
 
-## 📄 License
+## 📂 Project Setup
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+Clone the repo:
 
-See the LICENSE file for full details
-
+```bash
+git clone https://github.com/your-username/portfolio-website.git
