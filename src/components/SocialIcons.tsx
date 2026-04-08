@@ -1,6 +1,6 @@
 import {
   FaGithub,
-  FaInstagram,
+  // FaInstagram,
   FaLinkedinIn,
   FaXTwitter,
 } from "react-icons/fa6";
