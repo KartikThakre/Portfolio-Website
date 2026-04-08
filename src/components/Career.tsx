@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Senior Frontend Engineer</h4>
+                <h5>Accenture</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021-NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Spearheading frontend development for enterprise suites. Orchestrated a 40% performance gain through state optimization, established scalable UI component libraries, and actively mentored rising engineering talent.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Frontend Developer</h4>
+                <h5>MJB Technologies</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2019</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Engineered highly scalable client-facing applications, collaborating directly with key stakeholders to translate intricate business requirements into sophisticated, robust web solutions.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Developer</h4>
+                <h5>Intellect Design Arena</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2018-2019</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed mission-critical software modules and established stringent testing protocols, significantly elevating application architecture stability and deployment reliability.
             </p>
           </div>
         </div>

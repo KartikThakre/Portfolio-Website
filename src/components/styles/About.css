@@ -4,10 +4,21 @@
   justify-content: left;
   place-items: center;
   position: relative;
-  opacity: 1;
+  opacity: 0;
+  animation: fadeUp 1s ease forwards;
   height: auto;
   width: var(--cWidth);
   margin: auto;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 .about-me {
   padding: 50px 0px;
@@ -24,10 +35,11 @@
 }
 
 .about-me p {
-  font-size: 33px;
-  font-weight: 600;
-  line-height: 36px;
-  letter-spacing: 1px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.7;
+  letter-spacing: 0.5px;
+  opacity: 0.9;
 }
 
 @media only screen and (min-width: 600px) {

@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Senior Frontend Engineer with over five years of experience building scalable, high-performance web applications using React.js and TypeScript. At Accenture, I deliver enterprise-grade UI solutions across fintech, banking, and insurance domains, focusing on performance optimization, reusable component architecture, and pixel-perfect implementation of complex design systems.
         </p>
       </div>
     </div>

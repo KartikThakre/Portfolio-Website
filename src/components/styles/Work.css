@@ -11,6 +11,9 @@
   height: 100vh;
   box-sizing: border-box;
   will-change: transform;
+  background-color: var(--backgroundColor);
+  position: relative;
+  z-index: 50;
 }
 .work-container {
   margin: auto;
@@ -37,6 +40,7 @@
   flex-shrink: 0;
   gap: 50px;
   justify-content: start;
+  background: linear-gradient(145deg, rgba(255,255,255,0.02) 0%, rgba(255,255,255,0) 100%);
 }
 .work-flex .work-box:nth-child(even) {
   flex-direction: column-reverse;
@@ -89,6 +93,10 @@
   display: flex;
   width: 100%;
   justify-content: center;
+  transition: transform 0.4s ease;
+}
+.work-box:hover .work-image {
+  transform: scale(1.03);
 }
 .work-image-in {
   position: relative;
